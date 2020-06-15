@@ -1,0 +1,49 @@
+{
+  "name": "thirax_v30",
+  "version": "30.0.0.0",
+  "description": "Site support du logiciel Thirax",
+  "main": "index.html",
+  "directories": {
+    "example": "root"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stav-ivle-corp/thirax"
+  },
+  "keywords": [
+    "material kit",
+    "bootstrap material admin",
+    "bootstrap material kit",
+    "material design admin",
+    "material design",
+    "SIDL CORP.",
+    "html kit",
+    "html css kit",
+    "web kit",
+    "freebie",
+    "bootstrap kit",
+    "css3 kit",
+    "bootstrap admin",
+    "bootstrap kit",
+    "frontend",
+    "responsive bootstrap kit"
+  ],
+  "author": "SIDL CORP. <sidl-corp.com> (http://thirax-software.sidl-corp.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://sourceforge.net/projects/thirax-navigateur-internet/files/"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^5.0.0",
+    "gulp-clean": "^0.4.0",
+    "gulp-install": "^1.1.0",
+    "gulp-sass": "^4.0.1",
+    "gulp-sourcemaps": "^2.6.4",
+    "gulp-open": "^3.0.1"
+  },
+  "homepage": "http://thirax-software.sidl-corp.com/"
+}
